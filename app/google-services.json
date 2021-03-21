@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "133700299884",
+    "project_id": "yemektenevar-fbb1c",
+    "storage_bucket": "yemektenevar-fbb1c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:133700299884:android:128d0c3ac68b696f37fc49",
+        "android_client_info": {
+          "package_name": "cmpe494.yemektenevar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "133700299884-d2dbjqo2blv8i8ar2h6e8di0gi331qpt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUyPmog3OztCPe-RnQS5jIykrg-ztAdkM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "133700299884-d2dbjqo2blv8i8ar2h6e8di0gi331qpt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
